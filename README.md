@@ -2,6 +2,10 @@
 
 You can quote Jewish stuff on Reddit.
 
+This project was difficult to complete, mostly beause it would involve joining the Sefaria deveopment team to fix their API and normalize some endpoints.
+
+The problem is compounded by the fact that I am not Jewish, I cannot read Hebrew, and the structure and organization of Jewish texts varies wildy across books/collections. I organized a community of redditors  to help collect transliterations and abbreviations, but the project ultimately stalled due to not having the time available to commit to joining the Sefaria development team.
+
 ---
 
 ## Usage
